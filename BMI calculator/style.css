@@ -1,0 +1,56 @@
+body{
+    background-color: #efef52;
+    padding-left: 300px;
+}
+.container {
+    width: 575px;
+    height: 825px;
+  
+    background-color: #48e8d5;
+    padding-left: 300px;
+    
+  }
+  #height,
+  #weight {
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+  }
+  
+  #weight-guide {
+    margin-left: 75px;
+    margin-top: 25px;
+  }
+  
+  #results {
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(189, 66, 238);
+  }
+  
+  button {
+    width: 150px;
+    height: 35px;
+    margin-left: 90px;
+    margin-top: 25px;
+    background-color: #ed3685;
+    padding: 1px 30px;
+    border-radius: 8px;
+    color: #2eed27;
+    text-decoration: none;
+    border: 2px solid #27d827;
+  
+    font-size: 25px;
+  }
+  
+  h1 {
+    padding-left: 15px;
+    padding-top: 25px;
+    
+  }
+  
+  .footer .copyright {
+    font-size: 12px;
+    color: #e31313; 
+}
